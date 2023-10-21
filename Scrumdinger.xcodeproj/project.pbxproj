@@ -17,6 +17,7 @@
 		26B08F342AE3E349009FA154 /* TrailingIconLabelStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26B08F332AE3E349009FA154 /* TrailingIconLabelStyle.swift */; };
 		26B08F362AE3F7A0009FA154 /* ScrumsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26B08F352AE3F7A0009FA154 /* ScrumsView.swift */; };
 		26B08F382AE3FEF7009FA154 /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26B08F372AE3FEF7009FA154 /* DetailView.swift */; };
+		26B08F3A2AE41924009FA154 /* DetailEditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26B08F392AE41924009FA154 /* DetailEditView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		26B08F332AE3E349009FA154 /* TrailingIconLabelStyle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrailingIconLabelStyle.swift; sourceTree = "<group>"; };
 		26B08F352AE3F7A0009FA154 /* ScrumsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrumsView.swift; sourceTree = "<group>"; };
 		26B08F372AE3FEF7009FA154 /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		26B08F392AE41924009FA154 /* DetailEditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailEditView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				26B08F222AE3D199009FA154 /* Assets.xcassets */,
 				26B08F312AE3E00F009FA154 /* CardView.swift */,
 				26B08F372AE3FEF7009FA154 /* DetailView.swift */,
+				26B08F392AE41924009FA154 /* DetailEditView.swift */,
 				26B08F202AE3D199009FA154 /* MeetingView.swift */,
 				26B08F1E2AE3D199009FA154 /* ScrumdingerApp.swift */,
 				26B08F352AE3F7A0009FA154 /* ScrumsView.swift */,
@@ -165,6 +168,7 @@
 			files = (
 				26B08F302AE3DF48009FA154 /* DailyScrum.swift in Sources */,
 				26B08F382AE3FEF7009FA154 /* DetailView.swift in Sources */,
+				26B08F3A2AE41924009FA154 /* DetailEditView.swift in Sources */,
 				26B08F342AE3E349009FA154 /* TrailingIconLabelStyle.swift in Sources */,
 				26B08F2E2AE3DE9D009FA154 /* Theme.swift in Sources */,
 				26B08F362AE3F7A0009FA154 /* ScrumsView.swift in Sources */,
